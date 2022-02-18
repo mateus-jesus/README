@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my personal Portfolio**
 
-- 🌱 I’m currently learning **Html & Css and JavaScrypt**
+- 🌱 I’m currently learning **HTML & CSS and Javascrypt**
 
 - 📫 How to reach me **mattwstech@gmail.com**
 
