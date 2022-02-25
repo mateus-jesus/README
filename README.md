@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mateus</h1>
-<h3 align="center">A passionate wannabe fullstack from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg">
+<h1 align="center">Hi, nice to meet you!</h1>
 
-- 🔭 I’m currently working on **my personal Portfolio**
 
-- 🌱 I’m currently learning **HTML & CSS and Javascrypt**
+- 🌱 I’m currently learning, so i do a lot of questions!
 
-- 📫 How to reach me **mattwstech@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
