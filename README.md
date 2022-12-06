@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, Seja Bem Vindo!</h1>
 
-Eu sou Mateus Souza, estudante de <strong>Engenharia de Computação</strong> de Fortaleza, CE. Estou no caminho pra me tornar um desenvlvedor Fullstack.👨🏻‍💻
+Eu sou Mateus Souza, estudante de <strong>Engenharia de Computação</strong> de Fortaleza, CE. Estou no caminho pra me tornar um desenvlvedor Fullstack.
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2010&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Apoiador+de+Software+Livre;Entusiasta+de+IA%2FMundo+Virtual;Apaixonado+por+programar;Ainda+um+menino+cheio+de+sonhos)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2010&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Apoiador+de+Software+Livre;Entusiasta+de+IA+e+Mundos+Virtuais;Apaixonado+por+programa%C3%A7%C3%A3o;Ainda+um+menino+cheio+de+sonhos)](https://git.io/typing-svg) 
 
 ### Você pode me encontrar em: 
 <a href="mailto: mattwstech@gmail.com">
@@ -43,13 +43,14 @@ Eu sou Mateus Souza, estudante de <strong>Engenharia de Computação</strong> de
   </div>
 
 ------
+<br> <br>
 
-### Stats Overview : :cyclone:
+### Status Overview :
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=billpwchan&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=billpwchan&theme=dracula&no-bg=true&row=1"/>
 
 
-### GitHub Highlights: :blossom:
+### GitHub Highlights: 
 <a href="">
   <img align="center" src=""/>
 </a>
