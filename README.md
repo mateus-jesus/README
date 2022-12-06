@@ -43,19 +43,9 @@ Eu sou Mateus Souza, estudante de <strong>Engenharia de Computação</strong> de
   </div>
 
 ------
-<br> <br>
-
-### Status Overview :
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=billpwchan&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=billpwchan&theme=dracula&no-bg=true&row=1"/>
-
+<br> 
 
 ### GitHub Highlights: 
 <a href="">
-  <img align="center" src=""/>
-</a>
-<a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mateus-jesus&theme=solarized-light&locale=pt-br"/>
 </a>
-
-Credits: [billpwchan](https://github.com/billpwchan) e [zillastar](https://github.com/zillastar)
