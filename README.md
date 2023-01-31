@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, Seja Bem Vindo!</h1>
 
-É uma prazer te conhcer, sou Mateus Souza, estudante de <strong>Engenharia de Computação</strong> de Fortaleza, Ceará. Estou no caminho pra me tornar um desenvlvedor Fullstack.
+É um prazer te conhcer, sou Mateus Souza, estudante de <strong>Engenharia de Computação</strong> de Fortaleza, Ceará. Estou no caminho pra me tornar um desenvolvedor Fullstack.
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Apoiador+de+Software+Livre;Entusiasta+de+IA+e+Mundos+Virtuais;Apaixonado+por+programa%C3%A7%C3%A3o;Ainda+um+menino+cheio+de+sonhos)](https://git.io/typing-svg) 
 
