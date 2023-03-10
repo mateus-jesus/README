@@ -23,11 +23,9 @@
   <a href="https://dev.to/teeusao" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
-</div>
+
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVjY2M4NmNmODRiYTY4YTkxNjMyM2E0N2M5ZmNhMmU5NzE2MjJiYSZjdD1z/I05z3biFfzVpXvYzz7/giphy.gif"  />
 
 ###
 
@@ -36,8 +34,7 @@
 ###
 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Apoiador+de+Software+Livre;Entusiasta+de+IA+e+Mundos+Virtuais;Apaixonado+por+programa%C3%A7%C3%A3o;Ainda+um+menino+cheio+de+sonhos)](https://git.io/typing-svg) 
-
+</div>
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/m1amVl0.jpg"/>
