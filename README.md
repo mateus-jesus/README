@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <a href="https://linktr.ee/teeusao" target="_blank">
+  <a href="https://linktr.ee/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mateus-souza-754840203/" target="_blank">
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Sou Mateus J. Venancio, estudante de Engenharia de Computação na Universidade Federal do Ceará. Apaixonado por programação e obcecado por um mundo melhor.</p>
+<p align="left">Sou Mateus J. Venancio, estudante de Engenharia de Computação na Universidade Federal do Ceará. Me considero apaixonado por programação e sonho em um mundo onde a tecnologia seja para todos.</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 <h2> Sobre mim </h2>
   
-- ⭐ Atualmente aprendendo **Desenvolvimento Back-end**.
+- ⭐ Atualmente aprendendo **Desenvolvimento Back-end e Front-End**.
 - 📚 Conquistando meu diploma na **Universidade Federal do Ceará**.
 - 👾 A **student** working his way around things.
   
